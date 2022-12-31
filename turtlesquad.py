@@ -14,7 +14,7 @@ colors = ["lightseagreen", "khaki4", "thistle", "salmon"]
 # lets create the for loop
 for index, i in enumerate(t):
     i.speed(0)
-    i.color("white")
+    i.color("turquoise4")
     i.shape("circle")
     i.shapesize(0.3)
     i.width(3)
